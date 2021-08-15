@@ -1,5 +1,8 @@
 # MyProfile
-<h1>My Profile</h1>
+
+<h1>My IT Profile</h1>
+<img src="https://user-images.githubusercontent.com/88826736/129348054-fc439397-5455-4f1a-8223-66c5c589597e.jpg" alt="Picture of me">
+
 
 <h1>Personal Information</h1>
 <p>I am a South Sudanese national who was born overseas. I speak Dinka which is the second most widely spoken language in Sudan. Last year, I graduated from Simonds Catholic College (high school), and this is my first year at university. One unique aspect of my personality is that I enjoy reading, whether it's for financial literacy or just for pleasure. In addition, soccer piques my attention.</p>
